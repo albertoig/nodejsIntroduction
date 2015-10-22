@@ -1,0 +1,22 @@
+{
+  "name": "nodejsintroduction",
+  "version": "0.0.1",
+  "description": "It's just a 'hello world project' for noobs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertoig/nodejsIntroduction.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "Alberto Iglesias Gallego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertoig/nodejsIntroduction/issues"
+  },
+  "homepage": "https://github.com/albertoig/nodejsIntroduction#readme"
+}
