@@ -5,7 +5,7 @@ let server = http.createServer();
 
 let control = function (petic, resp) {
     resp.writeHead(200, {'content-type': 'text/plain'});
-    resp.write('Hola, Mundo!');
+    resp.write('\nHola, Mundo!\n by Alberto Iglesias Gallego\n\n');
     resp.end();
 };
 
